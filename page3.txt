@@ -1,3 +1,2 @@
-Page3 file
-
 The new function is added
+Adding of 2 numbers
